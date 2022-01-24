@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ymEuDPerD8n+DXjdyfZIDJQsvVy4zSzCYsGV+Mqpjio51nz/ahCFCf2Jmy0eWbbjDbyn689bjJovbDnQ65W1sQ==",
+  "success": true,
+  "projectFilePath": "D:\\c#\\traning\\собес\\Элита Саляхова\\3\\3\\3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

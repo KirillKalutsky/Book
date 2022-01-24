@@ -1,0 +1,17 @@
+D:\c#\traning\собес\Элита Саляхова\3\3\bin\Debug\net5.0\3.exe
+D:\c#\traning\собес\Элита Саляхова\3\3\bin\Debug\net5.0\3.deps.json
+D:\c#\traning\собес\Элита Саляхова\3\3\bin\Debug\net5.0\3.runtimeconfig.json
+D:\c#\traning\собес\Элита Саляхова\3\3\bin\Debug\net5.0\3.runtimeconfig.dev.json
+D:\c#\traning\собес\Элита Саляхова\3\3\bin\Debug\net5.0\3.dll
+D:\c#\traning\собес\Элита Саляхова\3\3\bin\Debug\net5.0\ref\3.dll
+D:\c#\traning\собес\Элита Саляхова\3\3\bin\Debug\net5.0\3.pdb
+D:\c#\traning\собес\Элита Саляхова\3\3\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\c#\traning\собес\Элита Саляхова\3\3\obj\Debug\net5.0\3.csproj.AssemblyReference.cache
+D:\c#\traning\собес\Элита Саляхова\3\3\obj\Debug\net5.0\3.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\traning\собес\Элита Саляхова\3\3\obj\Debug\net5.0\3.AssemblyInfoInputs.cache
+D:\c#\traning\собес\Элита Саляхова\3\3\obj\Debug\net5.0\3.AssemblyInfo.cs
+D:\c#\traning\собес\Элита Саляхова\3\3\obj\Debug\net5.0\3.csproj.CoreCompileInputs.cache
+D:\c#\traning\собес\Элита Саляхова\3\3\obj\Debug\net5.0\3.dll
+D:\c#\traning\собес\Элита Саляхова\3\3\obj\Debug\net5.0\ref\3.dll
+D:\c#\traning\собес\Элита Саляхова\3\3\obj\Debug\net5.0\3.pdb
+D:\c#\traning\собес\Элита Саляхова\3\3\obj\Debug\net5.0\3.genruntimeconfig.cache
